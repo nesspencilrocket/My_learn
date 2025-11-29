@@ -1,0 +1,67 @@
+﻿#include<bits/stdc++.h>
+using namespace std:
+
+int main(){
+	int w, s;
+	cin >> w >> s;
+	for (int i = 0; i <= 10001; i++){
+		int a = w * 1000;
+		int b = s * i;
+		if(a < b){
+			cout << b << endl;
+			break;
+		}
+	}
+
+	return 0;
+}
+
+#include <bits/stdc++.h>
+
+void solve() {
+    int N, M;
+    if (!(cin >> N >> M)) return;
+    vector<double> total_size(M, 0.0);
+    vector<int> count(M, 0);
+    for (int i = 0; i < N; ++i) {
+        int A;
+        int B;
+        if (!(cin >> A >> B)) return;
+        int index = A - 1; 
+        total_size[index] += B;
+        count[index]++;
+    }
+
+    cout << fixed << setprecision(10); 
+    for (int k = 0; k < M; ++k) {
+        double average = total_size[k] / count[k];    
+        cout << average << endl;
+    }
+}
+
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    solve();
+
+    return 0;
+}
+
+
+#include <bits/stdc++.h>
+using namespace std;
+
+struct Coder {
+    long long t;
+    long long l;
+    long long u;
+	long long H;
+    int N;
+};
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    solve();
+
+    return 0;
+}
