@@ -1,4 +1,7 @@
-# CONFIDENTIAL / STRICTLY PROHIBITED
+Copyright (c) 2025 nesspencilrocket. All Rights Reserved.
+
+
+CONFIDENTIAL / STRICTLY PROHIBITED
 
 Terms of Access and Usage
 
@@ -10,4 +13,4 @@ Prohibited Actions
 3. NO UNAUTHORIZED USE: Executing, modifying, or repurposing the Content for any purpose (whether personal or commercial) is prohibited.
 
 ---
-Copyright (c) 2025 nesspencilrocket. All Rights Reserved.
+
