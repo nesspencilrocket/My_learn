@@ -1,11 +1,14 @@
 Copyright (c) 2025 nesspencilrocket. All Rights Reserved.
 
 
-CONFIDENTIAL / STRICTLY PROHIBITED
+CONFIDENTIAL
 
 Terms of Access and Usage
 
 Unauthorized use of any source code, documentation, or resources contained in this repository (hereinafter referred to as the "Content") is strictly prohibited without the express permission of the author. By accessing this repository, you agree to be bound by the following terms:
+
+
+<b>The following content/provisions shall not apply if you are a member of the game development circle SEAP.</b>
 
 Prohibited Actions
 1. NO REPRODUCTION OR RETENTION: Downloading, cloning (`git clone`), capturing screenshots, or saving any part of the Content via copy-and-paste is strictly prohibited.
